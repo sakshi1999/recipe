@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #adce74;
+    align-items: center;
+    width: 100%;
+    box-shadow:2px 3px #af6b58;
+}
+
+.headerL{
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+.heading{
+    font-family: 'Josefin Slab', serif;
+    margin-left: 10px ;
+}
+
+.spoon{
+    margin-left: 10px;
+}
+
+.barbtn{
+    color: whitesmoke;
+    background-color: #999b84;
+    outline: none;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+    border: 0;
+    margin-right: 10px;
+}
+
+
+.addbtn{
+    color: whitesmoke;
+    background-color: #999b84;
+    outline: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 35px;
+    border: 0;
+    margin-right: 20px;
+    
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.card{
+    margin: 10px;
+    box-shadow: 2px 2px #af6b58;
+    text-align: center;
+    padding: 20px;
+    width: 30%;
+    height: 430px;
+    border:1px solid grey;
+}
+
+.image{
+    width: 100%;
+    height: 90%;
+}
+
+.title{
+    margin-top: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+  
+
+
+
